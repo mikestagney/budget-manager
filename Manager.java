@@ -58,7 +58,7 @@ public class Manager {
 
         System.out.printf("Total sum: $%.2f\n" , total);
     }
-    // /Users/mikestagney/Downloads/purchases.txt
+    
     public double getBalance() {
         return Math.max(0.0 , balance);
     }
