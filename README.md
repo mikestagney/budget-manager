@@ -12,12 +12,12 @@ Using streams to sort, sum and print the contents of hashmaps.
 User options:
 
 * Add income 
-* Add purchase - enter name and price and select one of four categories to place it
-* Show list of purchases - list all or from any of four categories
-* Balance - total purchases subtracted from income
+* Add purchase - enter name and price and select one of four categories to place it in
+* Show list of purchases - list all or any from four categories
+* Balance - total purchases subtracted from total income
 * Save all to file
 * Load from file
-* Sort - three ways to sort: by all purchases, by types and by certain type 
+* Sort - three ways to sort: by all purchases, by category and by specific category 
 * Exit the app
 
 The directory contains two files: 
