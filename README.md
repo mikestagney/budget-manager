@@ -3,7 +3,7 @@ Command line app to categorize, sort and save purchases.
 
 ## Things learned
 
-Nesting collections - one linked arraylist to hold four linked hashmaps.
+Nesting collections - one linked array list to hold four linked hash maps.
 
 Using streams to sort, sum and print the contents of hashmaps.
 
